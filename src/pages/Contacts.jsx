@@ -3,22 +3,10 @@ export default function Contacts(){
 
     return (
         <>
-        <header>
-            <div className="logo">
-                Logo
-            </div>
-            <nav>
-                <MainMenu />
-                
-            </nav>
-        </header>
-        <main>
+        
             <h1> Contacts</h1>
-        </main>
-        <footer>
-            <p> copyright 2024</p>
-        </footer>
-    
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ad voluptate molestiae debitis asperiores harum natus ut eos dolor, vitae dolore nisi explicabo architecto nulla unde. Saepe, libero explicabo. Odit!</p>
+       
         </>
     )
 
