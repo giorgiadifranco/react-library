@@ -19,12 +19,13 @@ header{
 a{
   text-decoration: none;
   padding:1.5rem;
+  font-size: 18px;
 }
 
 a:hoover{
 
   color: yellow;
-  font-size: 18px;
+  
 }
 
 
