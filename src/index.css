@@ -8,9 +8,9 @@
 header{
  
 
-  background-color: rgb(157, 234, 236);
+  background-color: rgb(83, 89, 89);
 
-  color: black;
+  color: rgb(228, 220, 220);
 }
 .logo{
   text-align: center;
@@ -18,14 +18,15 @@ header{
 }
 a{
   text-decoration: none;
+  color: white;
   padding:1.5rem;
   font-size: 18px;
-}
+&.active{
 
-a:hoover{
-
-  color: yellow;
+  color: rgb(144, 144, 245);
+  text-decoration: underline;
   
+}
 }
 
 
