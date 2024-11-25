@@ -5,8 +5,24 @@
 }
 
 
-:root {
+header{
  
-  --react-library--dark:
+
+  background-color: rgb(157, 234, 236);
+
+  color: black;
 }
+.logo{
+  text-align: center;
+  padding: 1rem;
+}
+a{
+  text-decoration: none;
+}
+
+a:hoover{
+
+  color: yellow;
+}
+
 
